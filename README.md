@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Web Demoblaze
 ### Descripción
 ###### En la pagina web [DemoBlaze](https://www.demoblaze.com/index.html "DemoBlaze") como usuario queremos registrarnos y agregar una laptop al carrito de compras.
@@ -26,13 +26,8 @@
 
           mvn clean install
 
-<<<<<<< HEAD
-##### (La ejecucion de pasos lo tuve que explicar no convencional  porque de la manera tradicional no me genera el link del report)
-=======
-# Swagger-Petstore
-https://petstore.swagger.io/
->>>>>>> branch 'main' of https://github.com/marcosgoifo/Swagger-Petstore.git
-=======
+
+
 ##### Si no se ejecuta correctamente tambien se puede ingresar
 
          mvn test
@@ -42,4 +37,4 @@ https://petstore.swagger.io/
 ##### Cuando se termine de ejecutar los test el report se sube automaticamente en html en la siguiente carpeta:
 
 ##### target>html-reports>report.html
->>>>>>> 14c45c2c709d52ecdc723883e36aa8675a3fa164
+
